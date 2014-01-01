@@ -1,0 +1,5 @@
+rootProject.name = 'grails-domain-extension'
+
+include 'plugin'
+include 'sample-domain'
+include 'sample-grails-app'
